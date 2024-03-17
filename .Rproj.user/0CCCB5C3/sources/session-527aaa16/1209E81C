@@ -1,7 +1,7 @@
 {
     "id": "1209E81C",
-    "path": "~/Desktop/Xaringen/week2pres.Rmd",
-    "project_path": "week2pres.Rmd",
+    "path": "~/Desktop/Xaringen/index.Rmd",
+    "project_path": "index.Rmd",
     "type": "r_markdown",
     "hash": "4075956725",
     "contents": "",
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "114,14",
-        "scrollLine": "105"
+        "cursorPosition": "11,35",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1710667799,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710667799199,
+    "last_content_update": 1710667799,
     "read_only": false,
     "read_only_alternatives": []
 }
